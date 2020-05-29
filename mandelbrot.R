@@ -1,8 +1,8 @@
 # Visual Basic para Aplicaciones vs R
-# www.datosimagensonido.com
+# www.overfitting.net
 
 library(tiff)
-Gamma = 2.2  # Curva Gamma para deslinealizar im·genes de salida
+Gamma = 2.2  # Curva Gamma para deslinealizar im√°genes de salida
 
 ITERA = 100  # Iteraciones
 WIDTH = 1920  # FUll HD

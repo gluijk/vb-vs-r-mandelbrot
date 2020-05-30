@@ -1,5 +1,6 @@
 # Visual Basic para Aplicaciones vs R
 # www.overfitting.net
+# https://www.overfitting.net/2017/07/visual-basic-para-aplicaciones-contra-r.html
 
 library(tiff)
 Gamma = 2.2  # Curva Gamma para deslinealizar imágenes de salida
